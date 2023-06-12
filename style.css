@@ -1,0 +1,47 @@
+body
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.test_image_and_result
+{
+    background: rgb(45, 96, 162);
+    max-width:97%;
+    color:aliceblue;
+    border-radius:20px;
+    margin-bottom:20px;
+}
+
+li{
+    margin-left:30px;
+}
+
+.image_responsive
+{
+    box-shadow:5px 5px 5px 5px rgb(46, 46, 46);
+}
+
+h5{
+    background-color: aliceblue;
+    color:black;
+    border-radius: 20px;
+    height:50px;
+    font-size:17px;
+}
+
+.copy_right_footer
+{
+  position:fixed;
+  color:aliceblue;
+  bottom:0;
+  width:100%;
+  background-color: rgb(130, 63, 15);
+  line-height:3;
+  text-align:center;
+}
+#div
+{
+    background-color: darkcyan;
+    height:200px;
+    margin-top:2650px;
+}
